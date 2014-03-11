@@ -1,4 +1,5 @@
 Tutorial.html Displays the classic teapot model using javascript files taken from Three.js
+
 Copyright (C) 2014  Alexander Gladu
 
     This program is free software: you can redistribute it and/or modify
